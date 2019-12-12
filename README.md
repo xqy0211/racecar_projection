@@ -10,4 +10,5 @@ subscribe:  摄像头获取的ROS图像/zed/rgb/image_rect_color<br>
 publish:  透视变换及图像增强后的图像/camera/image_projected_compensated
 ## 具体说明
 透视变换是为了获得车道的鸟瞰图，方便提取车道线。<br>
-效果如下：
+## 效果
+![cannot show](https://github.com/xqy0211/racecar_projection/blob/master/%E9%80%8F%E8%A7%86%E5%8F%98%E6%8D%A2.png)
